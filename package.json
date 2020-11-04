@@ -1,0 +1,27 @@
+{
+  "name": "use-between-ssr",
+  "version": "1.0.0",
+  "description": "use-between ssr demonstration",
+  "repository": {
+    "url": "https://github.com/betula/use-between-ssr"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "type-check": "tsc"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "use-between": "^0.0.16"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.21",
+    "@types/react": "^16.9.16",
+    "@types/react-dom": "^16.9.4",
+    "typescript": "4.0"
+  },
+  "license": "MIT"
+}
